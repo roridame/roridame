@@ -5,4 +5,6 @@ no dni but if u have one don't interact with me
  <p align="center">
 I love n+c my fav game is Slow Damage
 </p>
-![](https://komarev.com/ghpvc/?username=roridame)
+<p align="center"> <p align="center">
+<img src="https://komarev.com/ghpvc/?username=roridame&amp;label=" alt=""> </p>
+</p>
