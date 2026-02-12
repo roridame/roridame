@@ -3,7 +3,7 @@
 </p>
 　
 <p align="center">
-  <a href="https://kuuya.straw.page">s</a>traw　<img width="25" height="25" alt="image" src=https://64.media.tumblr.com/878b14d5807ed57db4ddc005c2220864/b34e06d8da14d72d-d4/s75x75_c1/5bec87be80ad59bf0242550b60a838958c67b375.gif />　
+  <a href="https://ichigotaku.straw.page">s</a>traw　<img width="25" height="25" alt="image" src=https://64.media.tumblr.com/878b14d5807ed57db4ddc005c2220864/b34e06d8da14d72d-d4/s75x75_c1/5bec87be80ad59bf0242550b60a838958c67b375.gif />　
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
