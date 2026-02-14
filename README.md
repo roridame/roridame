@@ -1,17 +1,11 @@
 <p align="center">
-<img width="500" height="68" alt="image" src="https://github.com/user-attachments/assets/481470ad-78ca-41f4-98d3-696d03ebe38a" />
-</p>
-　
-<p align="center">
-  <a href="https://ichigotaku.straw.page">s</a>traw　<img width="25" height="25" alt="image" src=https://64.media.tumblr.com/878b14d5807ed57db4ddc005c2220864/b34e06d8da14d72d-d4/s75x75_c1/5bec87be80ad59bf0242550b60a838958c67b375.gif />　
+  <a href="https://ichigotaku.straw.page">s</a>traw　<img width="40" height="40" alt="Image" src="https://github.com/user-attachments/assets/a90482f4-d406-4473-a334-7abaffa0bcd1" />
  <a href="https://roridame.atabook.org">a</a>ta
 </p>
 <p align="center"> 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b5a2eb0e-7a2d-417b-8d5e-489e33764fb3" />
-</p>
+<img width="324" height="324" alt="Image" src="https://github.com/user-attachments/assets/d486d730-7fcb-496b-b72b-b976c77233f2" /></p>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=roridame&amp;label=♰&amp;color=171314" alt=""> 
+<img src="https://komarev.com/ghpvc/?username=roridame&amp;label=♡&amp;color=171314" alt=""> 
 </p>
 <p align="center">
-<img width="99" height="56" alt="image" src=https://64.media.tumblr.com/efa376fe873e577e2a29948dfb09f11b/08136fe14c0616a2-14/s100x200/4736bd4413deba38f580cf77db8e617b1804e6d0.gif />
-
+<img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/fc6707d7-b2c5-4967-9d20-396bf8c65bb2" /> <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/6c6af533-4e4c-4244-8e52-05ebb848c141" /> <img width="99" height="56" alt="Image" src="https://github.com/user-attachments/assets/59cec4ac-fc3c-4401-a321-c1e5608ef977" />
